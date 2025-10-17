@@ -1,5 +1,5 @@
 # study_repo
--My Awesome Project
+- My Super Project
 ## My Project Plan
 
 - Initialize the project repository
